@@ -1,1 +1,0 @@
-# README'ler güncellenecektir.
