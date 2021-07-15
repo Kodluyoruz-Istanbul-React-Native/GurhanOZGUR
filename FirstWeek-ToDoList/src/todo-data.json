@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "toDoText": "Deneme id: 0",
+    "isDone": false,
+    "deleted": false
+  },
+  {
+    "id": "1",
+    "toDoText": "Deneme id: 1",
+    "isDone": true,
+    "deleted": false
+  },
+  {
+    "id": "2",
+    "toDoText": "Deneme id: 2",
+    "isDone": false,
+    "deleted": false
+  }
+]
